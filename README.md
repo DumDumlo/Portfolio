@@ -25,6 +25,8 @@ Team size: 3 Programmers 4 Artist
 
 A 3d platformer where you play as a very mobile scarab trying to push your very big orb through a level to collect checkpoints in your own order
 
+---
+
 ## [**Yank The Plank**](YankThePlank#yank-the-plank) ← Click here for more info!
 Engine: Unity
 
