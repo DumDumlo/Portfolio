@@ -4,7 +4,7 @@
 
 [itch page for Shifting Order](https://yrgo.itch.io/shifting-order) 
 
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Shifting Order Trailer](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
 ## Enemy Behavior
