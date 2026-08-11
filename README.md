@@ -14,6 +14,7 @@ A 2d puzzle platformer where you change the way the world works to then find a p
 
 <img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://github.com/user-attachments/assets/57eec7d4-5a21-48d0-822b-47f301e1abce" />
 
+---
 
 ## [**Go! My Scarab**](Go!MyScarab#go!-my-scarab) ← Click here for more info!
 Engine Unreal Engine 5
