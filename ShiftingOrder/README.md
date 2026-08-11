@@ -2,7 +2,7 @@
 
 [itch](https://yrgo.itch.io/shifting-order) 
 
-[https://www.youtube.com/embed/foJkuzoriRI](https://youtu.be/foJkuzoriRI)
+https://www.youtube.com/embed/foJkuzoriRI(https://youtu.be/foJkuzoriRI)
 
 
 
