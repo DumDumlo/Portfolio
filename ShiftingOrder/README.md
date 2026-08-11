@@ -2,15 +2,8 @@
 
 [itch](https://yrgo.itch.io/shifting-order) 
 
-<iframe
-  width="640"
-  height="480"
-  src="[https://www.youtube.com/embed/foJkuzoriRI](https://youtu.be/foJkuzoriRI)"
-  frameborder="0"
-  allow="autoplay; encrypted-media"
-  allowfullscreen
->
-</iframe>
+[https://www.youtube.com/embed/foJkuzoriRI](https://youtu.be/foJkuzoriRI)"
+
 
 
 ## Enemy Behavior
