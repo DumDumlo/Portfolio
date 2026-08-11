@@ -6,11 +6,11 @@
 ---
 
 ## [**Shifting Order**](ShiftingOrder#shifting-order) ← Click here for more info!
-Engine: Unity
+**Engine:** Unity
 
-Project Length: 8 Weeks from November 2025 to Januari 2026
+**Project Length:** 8 Weeks from November 2025 - Januari 2026
 
-Team size: 4 Programmers 3 Artist
+**Team size:** 4 Programmers 3 Artist
 
 *A 2d puzzle platformer where you change the way the world works to then find a possible solution*
 
@@ -21,7 +21,7 @@ Team size: 4 Programmers 3 Artist
 ## [**Go! My Scarab**](Go!MyScarab#go!-my-scarab) ← Click here for more info!
 Engine Unreal Engine 5
 
-Project Length: 8 Weeks from April 2026 to June 2026
+Project Length: 8 Weeks from April 2026 - June 2026
 
 Team size: 3 Programmers 4 Artist
 
@@ -32,7 +32,7 @@ A 3d platformer where you play as a very mobile scarab trying to push your very 
 ## [**Yank The Plank**](YankThePlank#yank-the-plank) ← Click here for more info!
 Engine: Unity
 
-Project Length: 6 Months from September 2024 to February 2025
+Project Length: 6 Months from September 2024 - February 2025
 
 Team size: 2 Programmers
 
