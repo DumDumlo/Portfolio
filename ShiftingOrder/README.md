@@ -4,8 +4,7 @@
 
 [itch page for Shifting Order](https://yrgo.itch.io/shifting-order) 
 
-[https://www.youtube.com/embed/foJkuzoriRI](https://youtu.be/foJkuzoriRI)
-
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
 ## Enemy Behavior
