@@ -5,8 +5,11 @@
 
 ## [**Shifting Order**](ShiftingOrder#shifting-order) ← Click here for more info!
 Engine: Unity
+
 Project Length: 8 Weeks from November 2025 to Januari 2026
+
 Team size: 4 Programmers 3 Artist
+
 A 2d puzzle platformer where you change the way the world works to then find a possible solution
 
 <img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://github.com/user-attachments/assets/57eec7d4-5a21-48d0-822b-47f301e1abce" />
