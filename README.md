@@ -1,5 +1,5 @@
 
-# Ivar Holmudd Portfolio
+# Portfolio
 
 # Games
 
