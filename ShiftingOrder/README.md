@@ -5,7 +5,7 @@
 <iframe
   width="640"
   height="480"
-  src="https://www.youtube.com/watch?v=foJkuzoriRI"
+  src="https://www.youtube.com/embed/watch?v=foJkuzoriRI"
   frameborder="0"
   allow="autoplay; encrypted-media"
   allowfullscreen
