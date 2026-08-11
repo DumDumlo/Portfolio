@@ -2,7 +2,7 @@
 
 [itch](https://yrgo.itch.io/shifting-order) 
 
-[![Watch the video]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=foJkuzoriRI)/default.jpg)]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=foJkuzoriRI))
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
 
 ## Enemy Behavior
 <img width="800" height="488" alt="Shifting Order Behaviour part 1" src="https://github.com/user-attachments/assets/d81569f8-2fa2-426d-a7d6-615868984d55" />
