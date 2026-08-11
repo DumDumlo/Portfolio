@@ -1,5 +1,7 @@
 # Shifting Order
 
+<img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://github.com/user-attachments/assets/7c8bc222-deb7-41e1-9d25-b8f1fd790fcf" />
+
 [itch](https://yrgo.itch.io/shifting-order) 
 
 [https://www.youtube.com/embed/foJkuzoriRI](https://youtu.be/foJkuzoriRI)
