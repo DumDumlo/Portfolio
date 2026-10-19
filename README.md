@@ -77,3 +77,10 @@ I am a game developer that currently lives in Gotenburg and i have a love for ga
 *Yank The Plank is a speedrunning game where your velocity grows exponentially as you fly through levels*
 
 <img width="315" height="250" alt="Yank The Plank itch Thumbnail" src="https://github.com/user-attachments/assets/87f827e8-40d9-47bb-965f-ad454029c3b6" />
+
+# Contact Me
+[**Linked In**]()
+
+[**Gmail**] ivar.holmudd@gmail.com 
+
+[**Itch**] 
