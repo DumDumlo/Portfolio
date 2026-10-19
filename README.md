@@ -18,7 +18,7 @@
 
 ---
 
-## [**Go! My Scarab**](Go!MyScarab#go!-my-scarab) ← Click here for more info!
+## [**Go! My Scarab**](https://yrgo.itch.io/go-my-scarab) ← Click here for more info!
 **Engine:** Unreal Engine 5
 
 **Project Length:** 8 Weeks from April 2026 - June 2026
@@ -29,7 +29,7 @@
 
 ---
 
-## [**Yank The Plank**](YankThePlank#yank-the-plank) ← Click here for more info!
+## [**Yank The Plank**](https://dumlo.itch.io/yank-the-plank) ← Click here for more info!
 **Engine:** Unity
 
 **Project Length:** 6 Months from September 2024 - February 2025
