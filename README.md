@@ -1,5 +1,6 @@
 
 # Ivar Holmudd Portfolio
+# CV
 
 # Games
 
@@ -28,6 +29,19 @@
 *A 3d platformer where you play as a very mobile scarab trying to push your very big orb through a level to collect checkpoints in your own order*
 
 <img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://img.itch.zone/aW1nLzI5OTU4MzQ4LnBuZw==/315x250%23c/AeeiwB.png" />
+
+---
+
+## [**Postponed Propulsion**](https://yrgo.itch.io/Postponed-Propultion) ← Click here for more info!
+**Engine:** No Engine
+
+**Project Length:** 8 Weeks from April 2026 - June 2026
+
+**Team size:** 3 Programmers
+
+*Sokoban Puzzle game where you store momentum within pushable boxes to find the correct combination of inputs*
+
+<img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://img.itch.zone/aW1nLzMwODQxMjQ1LnBuZw==/315x250%23c/4AVdGZ.png" />
 
 ---
 
