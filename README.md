@@ -27,6 +27,8 @@
 
 *A 3d platformer where you play as a very mobile scarab trying to push your very big orb through a level to collect checkpoints in your own order*
 
+<img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://img.itch.zone/aW1nLzI5OTU4MzQ4LnBuZw==/315x250%23c/AeeiwB.png" />
+
 ---
 
 ## [**Yank The Plank**](https://dumlo.itch.io/yank-the-plank) ← Click here for more info!
