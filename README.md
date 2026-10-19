@@ -32,7 +32,7 @@
 
 ---
 
-## [**Postponed Propulsion**](https://yrgo.itch.io/Postponed-Propultion) ← Click here for more info!
+## [**Postponed Propulsion**](https://dumlo.itch.io/postponed-propulsion) ← Click here for more info!
 **Engine:** No Engine
 
 **Project Length:** 8 Weeks from April 2026 - June 2026
