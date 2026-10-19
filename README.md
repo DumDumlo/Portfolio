@@ -66,7 +66,7 @@ I am a game developer that currently lives in Gotenburg and I have a love for ga
 ---
 
 ## [**Yank The Plank**](https://dumlo.itch.io/yank-the-plank) ← Click here for more info!
-**Role** Full Stack developer
+**Role** Program lead, Game Designer, Level designer, Generalist
 
 **Engine:** Unity (C#)
 
