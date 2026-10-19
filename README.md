@@ -45,6 +45,19 @@
 
 ---
 
+## [**Guard of the Crossing**](https://dumlo.itch.io/guard-of-the-crossing) ← Click here for more info!
+**Engine:** Unity
+
+**Project Length:** 8 Weeks from April 2026 - June 2026
+
+**Team size:** 4 Programmers
+
+*Sokoban Puzzle game where you store momentum within pushable boxes to find the correct combination of inputs*
+
+<img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://img.itch.zone/aW1nLzMwOTIwNzM2LnBuZw==/315x250%23c/NuO0%2Bu.png" />
+
+---
+
 ## [**Yank The Plank**](https://dumlo.itch.io/yank-the-plank) ← Click here for more info!
 **Engine:** Unity
 
