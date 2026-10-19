@@ -5,7 +5,7 @@
 
 ---
 
-## [**Shifting Order**](ShiftingOrder#shifting-order) ← Click here for more info!
+## [**Shifting Order**](https://yrgo.itch.io/shifting-order) ← Click here for more info!
 **Engine:** Unity
 
 **Project Length:** 8 Weeks from November 2025 - Januari 2026
