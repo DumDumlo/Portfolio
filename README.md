@@ -1,7 +1,7 @@
 
 # Ivar Holmudd Portfolio
 # CV
-I am a game developer that currently lives in Gotenburg and i have a love for game design and general game development. I found my passion for game development during 2020 when covid was running rampant and we where all stuck indoors, so instead of doing my school work i started to learn how to make my own mods for games such as Rivals of Aether and i just continued from there. Soon after when we graduated i got into "LBS Kreativa Gymnasie" and continued in game programming and after graduating there i continued my studies at Yrgo and will be graduating June 2026.
+I am a game developer that currently lives in Gotenburg and I have a love for game design and general game development. I found my passion for game development during 2020 when covid was running rampant and we where all stuck indoors, so instead of doing my school work I started to learn how to make my own mods for games such as Rivals of Aether and I just continued from there. Soon after when we graduated I got into "LBS Kreativa Gymnasium" and continued in game programming and after graduating there I continued my studies at Yrgo and will be graduating June 2026.
 
 # Games 
 
