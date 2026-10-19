@@ -38,7 +38,7 @@ I am a game developer that currently lives in Gotenburg and I have a love for ga
 ## [**Postponed Propulsion**](https://dumlo.itch.io/postponed-propulsion) ← Click here for more info!
 **Role** Level Design, Director, Game designer
 
-**Engine:** No Engine (C++)
+**Engine:** Built Own with SDL3 (C++)
 
 **Project Length:** 8 Weeks from April 2026 - June 2026
 
