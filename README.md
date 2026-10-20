@@ -1,8 +1,10 @@
 
 # Ivar Holmudd Portfolio
 # CV
-I am a game developer that currently lives in Gotenburg and I have a love for game design and general game development. I found my passion for game development during 2020 when covid was running rampant and we where all stuck indoors, so instead of doing my school work I started to learn how to make my own mods for games such as Rivals of Aether and I just continued from there. Soon after when we graduated I got into "LBS Kreativa Gymnasium" and continued in game programming and after graduating there I continued my studies at Yrgo and will be graduating June 2026.
+My entry into game development started with mods for Rivals of Aether during the 2020 covid lockdown, getting to work with established architecture and a game with a strong community kickstarted my interest in game development. Since then I've graduated from LBS, started studying programming at Yrgo and continued to make the types of games I really enjoy.
 
+
+Here below are a few of the projects I've worked on
 # Games 
 
 ## [**Shifting Order**](https://yrgo.itch.io/shifting-order) ← Click here for more info!
@@ -14,7 +16,7 @@ I am a game developer that currently lives in Gotenburg and I have a love for ga
 
 **Team size:** 4 Programmers 3 Artist
 
-*A 2d puzzle platformer where you change the way the world works to then find a possible solution*
+*You change the gravity, temperature, time and wind of the level to find a possible solution*
 
 <img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://github.com/user-attachments/assets/57eec7d4-5a21-48d0-822b-47f301e1abce" />
 
@@ -59,7 +61,7 @@ I am a game developer that currently lives in Gotenburg and I have a love for ga
 
 **Team size:** 4 Programmers 3 Artists
 
-*A vr game focused on slicing, parrying and dodging your way through a barrage of projectiles*
+*A vr game where you slice, parry and dodge your way through a barrage of projectiles*
 
 <img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://img.itch.zone/aW1nLzMwOTIwNzM2LnBuZw==/315x250%23c/NuO0%2Bu.png" />
 
@@ -74,7 +76,7 @@ I am a game developer that currently lives in Gotenburg and I have a love for ga
 
 **Team size:** 2 Programmers
 
-*Yank The Plank is a speedrunning game where your velocity grows exponentially as you fly through levels*
+*Yank The Plank is a speedrunning game where your velocity grows exponentially during each level*
 
 <img width="315" height="250" alt="Yank The Plank itch Thumbnail" src="https://github.com/user-attachments/assets/87f827e8-40d9-47bb-965f-ad454029c3b6" />
 
