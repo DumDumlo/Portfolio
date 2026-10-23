@@ -83,8 +83,8 @@ Here below are a few of the projects I've worked on
 <img width="315" height="250" alt="Yank The Plank itch Thumbnail" src="https://github.com/user-attachments/assets/87f827e8-40d9-47bb-965f-ad454029c3b6" /> <img width="444" height="250" alt="YankThePlankGameplay" src="./Source/ezgif-resized.gif" />
 
 # Contact Me
-[**Linked In**]()
+[**Linkedin**](https://www.linkedin.com/in/ivar-holmudd-41aa3b415)
 
 [**Gmail**] ivar.holmudd@gmail.com 
 
-[**Itch**] 
+[**Itch**] (https://dumlo.itch.io)
