@@ -87,4 +87,4 @@ Here below are a few of the projects I've worked on
 
 [**Gmail**] ivar.holmudd@gmail.com 
 
-[**Itch**] (https://dumlo.itch.io)
+[**Itch**](https://dumlo.itch.io)
