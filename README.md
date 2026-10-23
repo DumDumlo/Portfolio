@@ -18,8 +18,7 @@ Here below are a few of the projects I've worked on
 
 *You change the gravity, temperature, time and wind of the level to find a possible solution*
 
-<img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://github.com/user-attachments/assets/57eec7d4-5a21-48d0-822b-47f301e1abce" />
-<img width="400" height="244" alt="Shifting Order Behaviour part 1" src="file:///C:/Users/ivarh/Videos/gameplayGif.gif" />
+<img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://github.com/user-attachments/assets/57eec7d4-5a21-48d0-822b-47f301e1abce" /> <img width="500" height="250" alt="Shifting Order Gameplay Gif1" src="./Source/goodgameplayGif.gif" />
 
 ---
 
@@ -81,7 +80,7 @@ Here below are a few of the projects I've worked on
 
 *Yank The Plank is a speedrunning game where your velocity grows exponentially during each level*
 
-<img width="315" height="250" alt="Yank The Plank itch Thumbnail" src="https://github.com/user-attachments/assets/87f827e8-40d9-47bb-965f-ad454029c3b6" />
+<img width="315" height="250" alt="Yank The Plank itch Thumbnail" src="https://github.com/user-attachments/assets/87f827e8-40d9-47bb-965f-ad454029c3b6" /> <img width="500" height="250" alt="YankThePlankGameplay" src="./Source/goodgameplayGif.gif" />
 
 # Contact Me
 [**Linked In**]()
