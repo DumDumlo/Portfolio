@@ -19,7 +19,7 @@ Here below are a few of the projects I've worked on
 *You change the gravity, temperature, time and wind of the level to find a possible solution*
 
 <img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://github.com/user-attachments/assets/57eec7d4-5a21-48d0-822b-47f301e1abce" />
-<img width="400" height="244" alt="Shifting Order Behaviour part 1" src="https://i.imgur.com/nn4GvLh.gif" />
+<img width="400" height="244" alt="Shifting Order Behaviour part 1" src="file:///C:/Users/ivarh/Videos/gameplayGif.gif" />
 
 ---
 
