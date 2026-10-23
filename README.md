@@ -29,7 +29,6 @@ Here below are a few of the projects I've worked on
 **Engine:** Unreal Engine 5 (Blueprint)
 
 **Project Length:** 8 Weeks from April 2026 - June 2026
-<img width="800" height="488" alt="Shifting Order Behaviour part 2" src="https://github.com/user-attachments/assets/d17b1e03-3476-4c09-b875-3e33ecb4e0c5" />
 
 **Team size:** 3 Programmers 4 Artist
 
