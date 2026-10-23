@@ -14,13 +14,12 @@ Here below are a few of the projects I've worked on
 
 **Project Length:** 8 Weeks from November 2025 - Januari 2026
 
-<img width="800" height="488" alt="Shifting Order Behaviour part 1" src="https://github.com/user-attachments/assets/d81569f8-2fa2-426d-a7d6-615868984d55" />
-
 **Team size:** 4 Programmers 3 Artist
 
 *You change the gravity, temperature, time and wind of the level to find a possible solution*
 
 <img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://github.com/user-attachments/assets/57eec7d4-5a21-48d0-822b-47f301e1abce" />
+<img width="800" height="488" alt="Shifting Order Behaviour part 1" src="https://github.com/user-attachments/assets/d81569f8-2fa2-426d-a7d6-615868984d55" />
 
 ---
 
