@@ -80,7 +80,7 @@ Here below are a few of the projects I've worked on
 
 *Yank The Plank is a speedrunning game where your velocity grows exponentially during each level*
 
-<img width="315" height="250" alt="Yank The Plank itch Thumbnail" src="https://github.com/user-attachments/assets/87f827e8-40d9-47bb-965f-ad454029c3b6" /> <img width="500" height="250" alt="YankThePlankGameplay" src="./Source/goodgameplayGif.gif" />
+<img width="315" height="250" alt="Yank The Plank itch Thumbnail" src="https://github.com/user-attachments/assets/87f827e8-40d9-47bb-965f-ad454029c3b6" /> <img width="500" height="250" alt="YankThePlankGameplay" src="./Source/ezgif-resized.gif" />
 
 # Contact Me
 [**Linked In**]()
