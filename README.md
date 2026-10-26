@@ -50,7 +50,7 @@ Here below are a few of the projects I've worked on
 
 *Sokoban Puzzle game where you store momentum within pushable boxes to find the correct combination of inputs*
 
-<img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://img.itch.zone/aW1nLzMwODQxMjQ1LnBuZw==/315x250%23c/4AVdGZ.png" /> <img width="444" height="250" src="./Source/Postponed-Gif.gif" />
+<img width="315" height="250" alt="Shifting Order itch Thumbnail" src="https://img.itch.zone/aW1nLzMwODQxMjQ1LnBuZw==/315x250%23c/4AVdGZ.png" /> <img width="444" height="250" alt="Postponed Propulsion"src="./Source/Postponed-Gif.gif" />
 
 ---
 
