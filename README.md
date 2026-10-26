@@ -1,6 +1,7 @@
 
 # Ivar Holmudd Portfolio 
-<img width="250" height="250" alt="LinkedinPfp" src="./Source/IMG_5014.jpg" />
+<img width="187.5" height="250" alt="LinkedinPfp" src="./Source/IMG_5014.jpg" />
+
 # CV
 My entry into game development started with mods for Rivals of Aether during the 2020 covid lockdown, getting to work with established architecture and a game with a strong community kickstarted my interest in game development. Since then I've graduated from LBS, started studying programming at Yrgo and continued to make the types of games I really enjoy.
 
