@@ -6,7 +6,7 @@
 My entry into game development started with mods for Rivals of Aether during the 2020 covid lockdown, getting to work with established architecture and a game with a strong community kickstarted my interest in game development. Since then I've graduated from LBS, started studying programming at Yrgo and continued to make the types of games I really enjoy.
 
 
-Here below are a few of the projects I've worked on
+Here below are a few of the projects I've worked on!
 # Games 
 
 ## [**Shifting Order**](https://yrgo.itch.io/shifting-order) ← Click here for more info!
